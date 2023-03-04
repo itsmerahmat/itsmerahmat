@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I'm Gabut**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahmat-budianoor-7681bb246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmat-budianoor-7681bb246" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
 <a href="https://instagram.com/rahmat710_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahmat710_" height="30" width="40" /></a>
 </p>
 
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -40,3 +42,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
+
+<br>
+<h3 align="left">Statistics</h3>
+<p align="middle">
+<a href="https://github.com/itsmerahmat">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmerahmat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsmerahmat&layout=compact&langs_count=8&theme=radical"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmerahmat&theme=radical" alt="abdsalehh" />
+</a>
+</p>
