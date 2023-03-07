@@ -44,7 +44,7 @@
 </div>
 
 <br>
-<h3 align="left">Statistics</h3>
+<h3 align="left">Statistics:</h3>
 <p align="middle">
 <a href="https://github.com/itsmerahmat">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsmerahmat&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
