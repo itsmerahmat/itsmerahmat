@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://rahmatid.netlify.app/](https://rahmatid.netlify.app/)
+- 👨‍💻 All of my projects are available at Coming Soon
 
 - 📝 I regularly write articles on [https://www.sfosweb.ml/](https://www.sfosweb.ml/)
 
