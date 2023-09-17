@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at Coming Soon
 
-- 📝 I regularly write articles on [https://www.sfosweb.ml/](https://www.sfosweb.ml/)
+- 📝 I regularly write articles on [Coming Soon](#)
 
-- 💬 Ask me about **Javascript, Python and Wordpress**
+- 💬 Ask me about **Javascript, Python and Java**
 
 - 📫 How to reach me **rahmatbudianoor89@gmail.com**
 
